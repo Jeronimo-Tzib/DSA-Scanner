@@ -1,4 +1,4 @@
-# Mathematical Expression Tokenizer
+# Mathematical Expression Tokenizer/Scanner
 
 ## Project Overview
 This C++ implementation demonstrates lexical analysis of mathematical expressions by converting input strings into categorized tokens. The system handles numbers (including negatives), operators, parentheses, and identifies invalid characters.
