@@ -18,7 +18,7 @@ This C++ implementation demonstrates lexical analysis of mathematical expression
 - Demonstrate tokenization workflows
 
 ## Project Deliverables
-- [Code Demonstration Video](#) (https://youtu.be/demo-link-here)
+- [Code Demonstration Video](#) (https://youtu.be/0k2NagydwRI)
 
 ## How to Run
 ### Compilation
